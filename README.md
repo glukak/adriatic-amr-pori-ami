@@ -1,10 +1,10 @@
 # Please do not use this code before publication
 
 # PORI and AMI: ecology-based indices of antimicrobial resistance hazard (Adriatic coast)
-
+gluka/adriatic-amr-pori-ami
 Code and data to reproduce the tables and figures of the manuscript (TO-FILL WHEN PUBLISHED: title, journal, DOI).
 
-[!\[Binder](https://mybinder.org/badge\_logo.svg)](https://mybinder.org/v2/gh/USER/REPO/HEAD?labpath=run_pipeline.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glukak/adriatic-amr-pori-ami/HEAD?labpath=run_pipeline.ipynb)
 [!\[DOI](https://zenodo.org/badge/DOI/TO-FILL.svg)](https://doi.org/TO-FILL)
 
 ## Contents
